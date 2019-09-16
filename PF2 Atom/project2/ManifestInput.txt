@@ -1,0 +1,16 @@
+3 Alan Turing
+1 Tim Berners-Lee
+1 Ada Lovelace
+1 Alonzo Church
+4
+2 Tim Berners-Lee
+1 Alan Turing
+1 Alan Turing
+2 Kurt Godel
+1 Ken Thompson
+2 Alonzo Church
+4
+1 Richard Stallman
+1 Linus Torvalds
+4
+5
